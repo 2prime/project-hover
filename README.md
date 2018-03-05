@@ -4,8 +4,10 @@
 # 下载资料
 所有资料免费下载，遵守 GPL-3.0 版权协议
 
+Resilio Sync key：BOQAJMPYLVIIDNG4DRHMQA7TS3AV2RGHX（Resilio Sync目前在北大的校网里似乎是能用的）
+
 # 上传资料
-目前处于试运行阶段，上传资料请发邮件到 martinwu42@gmail.com，试运行一段时间后会发布更方便的上传途径
+目前处于试运行阶段，上传资料请发邮件到 martinwu42@gmail.com，或者发 pull request，试运行一段时间后会发布更方便的上传途径
 
 资料以往年题为主，试运行一段时间后可能也会允许讲义、笔记等资料
 
