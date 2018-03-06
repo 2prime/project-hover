@@ -13,4 +13,4 @@ Resilio Sync key：BOQAJMPYLVIIDNG4DRHMQA7TS3AV2RGHX（Resilio Sync目前在北�
 
 最好在文件名中包括教师、课程名称、年份、秋/春、期中/期末/其他说明
 
-纯文字的内容请尽量使用 txt 格式、而非 doc 格式保存，并保持良好的排版（突然广告：可以用这个工具帮助排版 https://github.com/martinwu42/typeset）
+纯文字的内容请尽量使用 txt 格式、而非 doc 格式保存，并保持良好的排版（突然广告：可以用这个工具帮助排版 https://github.com/martinwu42/typeset ）
